@@ -1,6 +1,6 @@
 from tkinter import *
 
-first_numbeer=second_number=operator= None
+first_number=second_number=operator= None
 
 def get_digit(digit):
     current = result_label['text']
